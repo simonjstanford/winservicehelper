@@ -1,0 +1,17 @@
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\bin\Debug\WindowsShutdownScriptLauncher.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\bin\Debug\WindowsShutdownScriptLauncher.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.Form1.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.Properties.Resources.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.csproj.GenerateResource.Cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.pdb
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.exe
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.pdb
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.Form1.resources
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\WindowsShutdownScriptLauncher.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\bin\Debug\WindowsShutdownScriptLauncher.exe.config
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\bin\Debug\WindowsShutdownScriptLauncher.exe
+C:\Users\Administrator\Dropbox\PC\Visual Studio 2010\Projects\WindowsShutdownScriptLauncher\WindowsShutdownScriptLauncher\bin\Debug\WindowsShutdownScriptLauncher.pdb
