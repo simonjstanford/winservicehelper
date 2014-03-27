@@ -1,0 +1,1 @@
+Detects Windows Services and allows a user to select which services should be started/stopped on application start up/shut down.
