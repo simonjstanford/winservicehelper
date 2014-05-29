@@ -1,7 +1,8 @@
 A service manager for Windows 7.  
 
 Features:
--Displays a list of all services installed on the local machine, together with their status (Stopped, Running, etc.).
+-Displays a list of all services installed on the local machine, together with their status 
+ (Stopped, Running, etc.).
 -Writes application events to the Windows log file.
 -Automatically minimises the app to the notification area on startup.
 
